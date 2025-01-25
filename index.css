@@ -1,0 +1,56 @@
+nav a {
+    margin:20px;
+    padding: 20px;
+    text-decoration: none;
+    background-color: #08210B;
+    border-radius: 10px;
+    color: white;
+}
+nav {
+    text-align: center;
+}
+body {
+    background-color: black;
+    font-size: 16px;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+}
+.deepiscalling {
+    width: 40px;
+    height: 40px;
+}
+.rozdil {
+    background-color: #08210B;
+    border-radius: 10px;
+    text-align: center;
+    font-size:50px;
+    color: white;
+}
+h3 {
+    color: white;
+}
+.fagnames {
+    color: white;
+    text-align: left;
+    font-size: 30px;
+}
+.infoaboutfags {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+.fagsfaces {
+    width: 200px;
+    height: 210px;
+    border:1px solid #08210B;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 30;
+    background-color: #08210B;
+    border-radius: 15px;
+}
